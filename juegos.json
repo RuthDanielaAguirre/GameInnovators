@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "nombre": "The Legend of Zelda: Breath of the Wild",
+      "genero": "Aventura",
+      "plataforma": ["Nintendo Switch", "Wii U"],
+      "calificacion": 4.9,
+      "descripcion": "Explora un vasto mundo abierto lleno de aventuras y misterios en Hyrule.",
+      "imagen": "https://media.gq.com/photos/58c9b8e5ca736630b47208c5/16:9/w_1280,c_limit/BOTW-Share_icon.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "The Witcher 3: Wild Hunt",
+      "genero": "Rol",
+      "plataforma": ["PC", "PS4", "Xbox One", "Nintendo Switch"],
+      "calificacion": 4.8,
+      "descripcion": "Embárcate en una épica aventura como Geralt de Rivia, cazador de monstruos.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Super Mario Odyssey",
+      "genero": "Plataformas",
+      "plataforma": ["Nintendo Switch"],
+      "calificacion": 4.7,
+      "descripcion": "Únete a Mario en una colorida aventura para rescatar a la Princesa Peach.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8d/Super_Mario_Odyssey.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Red Dead Redemption 2",
+      "genero": "Acción y Aventura",
+      "plataforma": ["PC", "PS4", "Xbox One"],
+      "calificacion": 4.6,
+      "descripcion": "Vive la experiencia del salvaje oeste como Arthur Morgan.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Hola soy nuevo Knight",
+      "genero": "Metroidvania",
+      "plataforma": ["PC", "Nintendo Switch", "PS4", "Xbox One"],
+      "calificacion": 4.5,
+      "descripcion": "Explora un misterioso reino subterráneo en este aclamado juego de acción.",
+      "imagen": "https://img.redbull.com/images/c_fill,g_auto,w_1200,h_630/f_auto,q_auto/redbullcom/2017/07/13/f35f87b7-93ee-4d30-935a-dbfdb77d22cd/hollow-knight-switch.jpg.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Dark Souls III",
+      "genero": "Rol y Acción",
+      "plataforma": ["PC", "PS4", "Xbox One"],
+      "calificacion": 4.6,
+      "descripcion": "Un desafiante juego de rol ambientado en un oscuro mundo medieval.",
+      "imagen": "https://www.bloglenovo.es/app/uploads/2024/01/Dark-Souls.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Celeste",
+      "genero": "Plataformas",
+      "plataforma": ["PC", "PS4", "Xbox One", "Nintendo Switch"],
+      "calificacion": 4.8,
+      "descripcion": "Un juego de plataformas que combina desafío y narrativa emotiva.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjFjaO_XCRc356NjXnrAykBFcQ6Lg0T17-dbUMjoKZPemug5n459S4JLwJ5p8jB3cz_tg&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "nombre": "God of War",
+      "genero": "Acción y Aventura",
+      "plataforma": ["PS4", "PC"],
+      "calificacion": 4.9,
+      "descripcion": "Kratos regresa con una nueva historia en la mitología nórdica.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/a/a7/God_of_War_4_cover.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Minecraft",
+      "genero": "Sandbox",
+      "plataforma": ["PC", "PS4", "Xbox One", "Nintendo Switch", "Mobile"],
+      "calificacion": 4.7,
+      "descripcion": "Crea y explora mundos infinitos en este icónico juego de construcción.",
+      "imagen": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/02/guia-todos-trucos-consejos-minecraft.jpg?tf=3840x"
+    },
+    {
+      "id": 10,
+      "nombre": "Portal 2",
+      "genero": "Puzzle",
+      "plataforma": ["PC", "PS3", "Xbox 360"],
+      "calificacion": 4.9,
+      "descripcion": "Un innovador juego de puzzles que desafía la lógica y la física.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/f/f9/Portal2cover.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Stardew Valley",
+      "genero": "Simulación",
+      "plataforma": ["PC", "PS4", "Xbox One", "Nintendo Switch", "Mobile"],
+      "calificacion": 4.8,
+      "descripcion": "Crea y gestiona tu propia granja en este encantador simulador.",
+      "imagen": "https://gaming-cdn.com/images/products/1767/orig/stardew-valley-pc-mac-juego-steam-cover.jpg?v=1704800467"
+    },
+    {
+      "id": 12,
+      "nombre": "Bloodborne",
+      "genero": "Rol y Acción",
+      "plataforma": ["PS4"],
+      "calificacion": 4.7,
+      "descripcion": "Un oscuro y desafiante juego ambientado en un mundo gótico.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/6/68/Bloodborne_Cover_Wallpaper.jpg"
+    },
+    {
+      "id": 13,
+      "nombre": "Undertale",
+      "genero": "RPG",
+      "plataforma": ["PC", "PS4", "Switch", "Xbox"],
+      "calificacion": 4.6,
+      "descripcion": "Un RPG único donde puedes resolver conflictos sin combatir.",
+      "imagen": "https://periodismo.unizar.es/wp-content/uploads/undertal1.jpg"
+    },
+    {
+      "id": 14,
+      "nombre": "Cyberpunk 2077",
+      "genero": "Rol y Acción",
+      "plataforma": ["PC", "PS4", "Xbox One"],
+      "calificacion": 4.0,
+      "descripcion": "Explora un mundo futurista lleno de tecnología y caos.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "Final Fantasy VII Remake",
+      "genero": "Rol",
+      "plataforma": ["PS4", "PS5", "PC"],
+      "calificacion": 4.7,
+      "descripcion": "Una reimaginación moderna del icónico RPG.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Vj0PUuCgEt7XPHcslKrI4l3fGh6envoxNX1TMwkoNsUK9T1N6jUhIMpwa9Oa05IdUBY&usqp=CAU"
+    },
+    {
+      "id": 16,
+      "nombre": "Animal Crossing: New Horizons",
+      "genero": "Simulación",
+      "plataforma": ["Nintendo Switch"],
+      "calificacion": 4.8,
+      "descripcion": "Construye tu isla perfecta en este relajante simulador social.",
+      "imagen": "https://cdn.dlcompare.com/game_tetiere/upload/gameimage/file/43146.jpeg.webp"
+    },
+    {
+      "id": 17,
+      "nombre": "Sekiro: Shadows Die Twice",
+      "genero": "Acción y Aventura",
+      "plataforma": ["PC", "PS4", "Xbox One"],
+      "calificacion": 4.8,
+      "descripcion": "Un juego de acción y sigilo ambientado en el Japón feudal.",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhC0XWvH0nsVm0TFl7Hf1Rj3R3t8aSUtqbDBDPDVHl6ej_xuP_JBIcx4yri1eS45QzpNdwkYxo62h4s4tqdhAgqIZpF0DaS78-jVeZBP9uDiOexN_9llj1rQsvlJVSzh-XBDcnBGnAwj0/s1600/sekiro.jpg"
+    },
+    {
+      "id": 18,
+      "nombre": "Persona 5 Royal",
+      "genero": "Rol",
+      "plataforma": ["PS4", "PS5", "Switch", "PC"],
+      "calificacion": 4.9,
+      "descripcion": "Lidera a los Phantom Thieves en esta épica aventura.",
+      "imagen": "https://lh3.googleusercontent.com/proxy/CxpWLDe0mH-Ysbgo6w-JjYmR52q8hCMA7ifCC7gBwu12MTe_xeEMWya1gp412W7App11Y51dlhT4z-qNZ6Q0sxqZnKr9hamCdb3ZCWJ58nkY-A"
+    },
+    {
+      "id": 19,
+      "nombre": "Mass Effect Legendary Edition",
+      "genero": "Rol y Acción",
+      "plataforma": ["PC", "PS4", "Xbox One"],
+      "calificacion": 4.8,
+      "descripcion": "Revive la épica saga espacial con gráficos remasterizados.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ekKak9RS5dR7a052NW0XTZPoTKkIqr062hUt8WdamhRaMclRhdCCDRNEVQmsVTBaT0k&usqp=CAU"
+    },
+    {
+      "id": 20,
+      "nombre": "Halo Infinite",
+      "genero": "FPS",
+      "plataforma": ["PC", "Xbox One", "Xbox Series X|S"],
+      "calificacion": 4.4,
+      "descripcion": "La última entrega de la saga Halo con nuevas mecánicas de mundo abierto.",
+      "imagen": "https://m.media-amazon.com/images/M/MV5BYzFjNzJkNjUtNGE3Ny00MjdkLWFjZGMtNmQwMDQxY2Y1ZWFkXkEyXkFqcGc@._V1_.jpg"
+    }
+  ]
+  
