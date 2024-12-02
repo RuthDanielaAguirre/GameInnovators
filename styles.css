@@ -62,6 +62,8 @@
   padding: 0;
 }
 
+
+
 .border-purple {
   border:1px solid rgb(111, 66, 193) ;
 }
@@ -77,15 +79,20 @@
   height: 40rem;
 }
 
+#gameModalImg{
+  width: 20rem;
+  height: 20rem;
+  object-fit: cover;
+  border-radius: 8px;
+  
+}
 
 .contact{
     margin: 19%;
     padding-top: 3rem;
     padding-bottom: 3rem;
+  
 }
-
-
-
 
   .contact input{
   

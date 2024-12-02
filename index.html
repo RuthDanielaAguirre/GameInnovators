@@ -13,16 +13,11 @@
         <div class="container-fluid">
           <a class="navbar-brand text-light" href="#">Game Innovation</a>
           <button class="navbar-toggler text-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon bg-success"></span>
+            <span class="navbar-toggler-icon bg-light"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarScroll">
             <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
-              <li class="nav-item">
-                <a class="nav-link active text-light" aria-current="page" href="#">Home</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-light" href="#">About Us</a>
-              </li>
+          
               <li class="nav-item ">
                 <a class="nav-link text-light" href="#games">Games</a>
               </li>
@@ -40,7 +35,8 @@
       </nav>
 
         <!-- empieza el carrusel  -->
-         <div class="containter-carousel py-5">
+         <section class="carousel p-5">
+         <div class="containter-carousel p-5">
       <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
           <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -68,7 +64,7 @@
         </button>
       </div>
     </div>
-    
+  </section>
 
 
       <!-- empiezan las cards -->
@@ -81,21 +77,21 @@
 
       <!-- Modal Bootstrap -->
 <div class="modal fade" id="gameModal" tabindex="-1" aria-labelledby="gameModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered">
+  <div class="modal-dialog modal-dialog-centered text-light">
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="modal-title" id="gameModalLabel"></h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        <button type="button" class="btn-close bg-light" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        <img id="gameModalImg" src="" alt="" class="img-fluid mb-3">
+        <img id="gameModalImg" src="" alt="" class="img-fluid mb-3 mx-auto d-block">
         <p id="gameModalDesc"></p>
         <p id="gameModalPlataforma"></p>
         <p id="gameModalGenero"></p>
         <p id="gameModalCalificacion"></p>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+        <button type="button" class="btn btn-success" data-bs-dismiss="modal">Cerrar</button>
       </div>
     </div>
   </div>

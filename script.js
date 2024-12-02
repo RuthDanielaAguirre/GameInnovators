@@ -13,7 +13,7 @@ fetch("juegos.json")
       const gameCard = `   
       <div class="card border border-2 border-purple  mx-auto overflow:hidden;" style="width: 15rem;" >
         <img src="${element.imagen}" class="card-img-top mt-3 border  rounded" style="height:12rem; object-fit: cover;" alt="${element.nombre}">
-        <div class="card-body ">
+        <div class="card-body d-flex flex-column">
           <h5 class="card-title text-light ">${element.nombre}</h5>
           <p class="card-text text-light">${element.descripcion}</p>
          <button type="button" class="btn btn-success mt-auto style=""" 
