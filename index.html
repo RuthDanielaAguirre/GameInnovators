@@ -4,16 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gaming Inovators</title>
-    <link rel="stylesheet" href="styles.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
 </head>
 <body class ="bg-dark dark-mode">
     
     <nav class="navbar navbar-expand-sm bg-dark position-fixed border-bottom rounded z-3 w-100">
         <div class="container-fluid">
-          <a class="navbar-brand text-light" href="#">Game Innovation</a>
-          <button class="navbar-toggler text-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon bg-light"></span>
+          <a class="navbar-brand text-light " href="#">Game Innovation</a>
+          <button class="navbar-toggler text-light" type="button btn-purple btn-purple:hover" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon bg-light bg-opacity-75"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarScroll">
             <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
@@ -27,8 +29,8 @@
               
             </ul>
             <form class="d-flex" role="search">
-              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-              <button class="btn btn-success" type="submit">Search</button>
+              <input class="form-control me-2" type="search" id="search" placeholder="Search" aria-label="Search">
+              <button class="btn btn-purple btn-purple:hover" type="submit">Search</button>
             </form>
           </div>
         </div>
@@ -81,7 +83,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <h5 class="modal-title" id="gameModalLabel"></h5>
-        <button type="button" class="btn-close bg-light" data-bs-dismiss="modal" aria-label="Close"></button>
+        <button type="button" class="btn-close bg-light btn-purple btn-purple:hover" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
         <img id="gameModalImg" src="" alt="" class="img-fluid mb-3 mx-auto d-block">
@@ -91,7 +93,7 @@
         <p id="gameModalCalificacion"></p>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-success" data-bs-dismiss="modal">Cerrar</button>
+        <button type="button " class="btn btn-purple btn-purple:hover" data-bs-dismiss="modal">Cerrar</button>
       </div>
     </div>
   </div>
@@ -105,7 +107,7 @@
   <input class="form-control me-2 bg-opacity-75 bg-light" type="email" placeholder="Email" aria-label="Email" required>
   <input class="form-control me-2 bg-opacity-75 bg-light" type="description" placeholder="Description" aria-label="Description">
 
-  <button class="btn btn-success" type="submit">Send</button>
+  <button class="btn btn-purple text-light" type="submit">Send</button>
 </form>
 </section>
 

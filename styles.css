@@ -62,22 +62,43 @@
   padding: 0;
 }
 
-
-
-.border-purple {
-  border:1px solid rgb(111, 66, 193) ;
+.navbar .container-fluid .a:hover{
+  border: 2px solid rgba(216, 141, 226, 0.938) !important;
 }
 
-.card, .contact, .modal-content{
+
+
+.btn-purple {
+  border:1px solid rgb(255, 255, 255) ;
+  color:rgb(255, 255, 255);
+  box-shadow: 2px 3px 3px rgba(216, 141, 226, 0.938);
+}
+.btn-purple:hover {
+  border:1px solid rgb(255, 255, 255) ;
+ background:rgb(131, 92, 138);
+  box-shadow: 2px 3px 3px rgba(227, 180, 233, 0.938);
+}
+
+.card, .contact, .modal-content {
   background-image:url(./fondo1.jpg) ;
   background-size: cover;
   background-position: center;
- box-shadow: 2px 2px 2px white;
+ box-shadow: 2px 3px 3px rgba(216, 141, 226, 0.938);
 }
 
+
 .card{
-  height: 40rem;
+  height: 29rem;
+  width: 15rem;
+/*   
+    display: inline-block;
+    margin: 0 0.5rem;
+  
+    animation:; /* referring directly to the animation's @keyframe declaration */
+ 
 }
+
+
 
 #gameModalImg{
   width: 20rem;
